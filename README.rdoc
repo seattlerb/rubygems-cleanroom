@@ -29,13 +29,13 @@ gem list to actually be empty? Me too. Now you can.
   rdoc (4.0.0)
   test-unit (2.0.0.0)
 
-  $ gem install rubygems-cleanroom
+  $ gem install -i xxx rubygems-cleanroom
   ...
   $ GEM_HOME=xxx GEM_PATH=xxx gem list
 
   *** LOCAL GEMS ***
-
-  $ 
+  
+  rubygems-cleanroom (1.0.0)
 
 == REQUIREMENTS:
 
