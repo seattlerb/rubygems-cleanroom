@@ -1,0 +1,6 @@
+History.rdoc
+Manifest.txt
+README.rdoc
+Rakefile
+lib/rubygems/cleanroom.rb
+lib/rubygems_plugin.rb
