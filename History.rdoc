@@ -1,3 +1,9 @@
+=== 1.0.1 / 2014-08-18
+
+* 1 bug fix:
+
+  * Fixed doco error. You need to have cleanroom installed in your repo for it to work. (vandrijevik)
+
 === 1.0.0 / 2014-08-08
 
 * 1 major enhancement
