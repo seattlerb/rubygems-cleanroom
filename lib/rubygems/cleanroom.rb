@@ -1,3 +1,8 @@
+if defined?(APPLE_GEM_HOME) then
+  Object.send :remove_const, :APPLE_GEM_HOME
+  Gem.clear_paths
+end
+
 module Rubygems
   class Cleanroom
     VERSION = "1.0.1"
